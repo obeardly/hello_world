@@ -49,4 +49,4 @@ Write some code, preferably some of the exericise from the "Hello World" program
 	git commit -m 'First upload'
 	git push
 	
-Now you're ready to some serious coding. 
+Now you're ready to do some serious coding. 

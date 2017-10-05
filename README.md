@@ -43,7 +43,7 @@ Now, you can start using git to view and share your code. Create a directory for
 	cd hello_world
 	git init
 
-Write some code, preferably some of the exericise from the "Hello World" programming book, commit it to github, then upload it. 
+Write some code, preferably some of the exericises from the "Hello World" programming book, commit it to github, then upload it. 
 
 	git add *.py
 	git commit -m 'First upload'

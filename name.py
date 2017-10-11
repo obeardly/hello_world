@@ -1,5 +1,4 @@
 #!/bin/bash
 #Hello World Exercise 5.1
-print "Enter your name: "
-someone = raw_input()
+someone = raw_input("Enter your name: ",)
 print "Hi" ,someone, "how are you?"

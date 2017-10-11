@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Hello World Chapter 5 Try It Out Exercise 3
+#Hello World Chapter 5 Try It Out Exercise 4
 print "I'm going to help you determine the amount of carpet you need."
 l = int(raw_input('What is the length of your room in feet? '))
 w = int(raw_input('What is the width of your room in feet? '))

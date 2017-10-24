@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-#Hello World Listing 6.3
+#!/usr/bin/python
+#Hello World Listing 
 import easygui
 flavor = easygui.enterbox("What is your favorite flavor of ice cream? ",
         default = "Vanilla")

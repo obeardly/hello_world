@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 #Hello World Chapter 5 Try It Out Exercise 5
 print "I'm going to help you add up your change."
 q1 = raw_input("How many quarters do you have? ")

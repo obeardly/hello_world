@@ -4,7 +4,7 @@ import random, easygui
 secret = random.randint(1, 99)
 guess = 0 
 tries = 0
-easygui.msgbox("""Ahoy! I'm the Dread Pirate Roberts, and I have a secret! It is a number from 1 to 99.  I'll give you tries.""")
+easygui.msgbox("""Ahoy! I'm the Dread Pirate Roberts, and I have a secret! It is a number from 1 to 99.  I'll give you 6 tries.""")
 while guess != secret and tries < 6:
 	guess = easygui.integerbox("What is your guess? ")
         if not guess: break
